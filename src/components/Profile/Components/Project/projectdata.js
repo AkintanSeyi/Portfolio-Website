@@ -26,7 +26,7 @@ const projectdata = [
     git: "",
     web: "https://jobhubwebapp.vercel.app/",
     p: "Full-stack web app for hunting for jobs and seeking for employee for your company , this uses an free heroku hosting platform , which takes 30 seconds to kick start afte being idle for 30min, Thanks for your patience ",
-    switchSide: true,
+    switchSide: false,
   },
   {
     id: 2,
