@@ -25,7 +25,7 @@ const projectdata = [
     image: risevest,
     name: "risvest App",
     git: "https://github.com/AkintanSeyi/risevest",
-    web: "https://patriciason-kwikapp.vercel.app/",
+    web: "https://patriciason-risevest.vercel.app/",
     p: "risvest App is used for saving money indollar and different currency, one of the biggest saving app in africa , This is the clone app ",
     switchSide: false,
   },
