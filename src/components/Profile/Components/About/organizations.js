@@ -3,7 +3,7 @@
 
    {
 
-      companyName : "NextGenTech",
+      companyName : "Ultainfinity Global Group",
       Position : "Software Developer",
       companyLocation : "England",
       type : "Remote",
