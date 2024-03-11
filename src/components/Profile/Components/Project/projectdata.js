@@ -9,16 +9,26 @@ import funiture from "../../../../images/funiture.png";
 import kwikapp from "../../../../images/kwikappimg.png";
 import jobhubimg from "../../../../images/jobhubimg.png";
 import risevest from "../../../../images/risevest.png";
+import kippaApp from "../../../../images/kippa.png";
 
 const projectdata = [
   {
     id: 10,
     image: kwikapp,
-    name: "kwik.delivery Clone",
+    name: "kwik.delivery",
     git: "https://github.com/AkintanSeyi/kwikapp",
     web: "https://patriciason-kwikapp.vercel.app/",
-    p: "kwik.delivery is one of the biggest delivery app in africa and this is an clone of the web app",
+    p: "kwik.delivery is one of the biggest delivery app in africa p",
     switchSide: true,
+  },
+  {
+    id: 13,
+    image: kippaApp,
+    name: "Kippa",
+    git: "https://github.com/AkintanSeyi/kippa",
+    web: "https://patriciason-kippa.vercel.app/",
+    p: "kippa helps small business save and manage there finances well, One of the biggest App in africa",
+    switchSide: false,
   },
   {
     id: 12,
@@ -26,8 +36,8 @@ const projectdata = [
     name: "risvest App",
     git: "https://github.com/AkintanSeyi/risevest",
     web: "https://patriciason-risevest.vercel.app/",
-    p: "risvest App is used for saving money indollar and different currency, one of the biggest saving app in africa , This is the clone app ",
-    switchSide: false,
+    p: "risvest App is used for saving money indollar and different currency, one of the biggest saving app in africa  ",
+    switchSide: true,
   },
   {
     id: 11,
@@ -36,7 +46,7 @@ const projectdata = [
     git: "",
     web: "https://jobhubwebapp.vercel.app/",
     p: "Full-stack web app for hunting for jobs and seeking for employee for your company , this uses an free heroku hosting platform , which takes 30 seconds to kick start afte being idle for 30min, Thanks for your patience ",
-    switchSide: true,
+    switchSide: false,
   },
   {
     id: 2,
@@ -45,7 +55,7 @@ const projectdata = [
     git: "https://github.com/akintanseyi/funiture",
     web: "https://akintanseyi.github.io/funiture/",
     p: "this is a website of slick-funitures, they sell different kind of funitures of all kind, they also offer delivey of product free and offer a great product at afforable rate",
-    switchSide: false,
+    switchSide: true,
   },
   {
     id: 9,
@@ -54,7 +64,7 @@ const projectdata = [
     git: "https://github.com/akintanseyi/fibre-",
     web: "https://akintanseyi.github.io/fibre-/",
     p: "fibre is the number one leading housing company in lagos, having over 100 buildings and hundreds of agent nationwide",
-    switchSide: true,
+    switchSide: false,
   },
   {
     id: 1,
@@ -63,7 +73,7 @@ const projectdata = [
     git: "https://github.com/akintanseyi/car",
     web: "https://akintanseyi.github.io/car/",
     p: "this is a website about as-cars company, top leading car dealers company in west-africa, they sold over 5000 cars and are know as revolutionarizing selling of cars",
-    switchSide: false,
+    switchSide: true,
   },
 
   {
@@ -73,7 +83,7 @@ const projectdata = [
     git: "https://github.com/akintanseyi/mother-earth",
     web: "https://akintanseyi.github.io/mother-earth/",
     p: "this is a webite about our beautiful planet, different amazing pictures from all over the world",
-    switchSide: true,
+    switchSide: false,
   },
   {
     id: 5,
@@ -82,7 +92,7 @@ const projectdata = [
     git: "https://github.com/akintanseyi/housing-website",
     web: "https://akintanseyi.github.io/housing-website/",
     p: "housing in lagos is an new compny with just took off 2 years ago, they are making waves and are know for providing houses in lagos state",
-    switchSide: false,
+    switchSide: true,
   },
   {
     id: 6,
@@ -91,7 +101,7 @@ const projectdata = [
     git: "https://github.com/akintanseyi/nft",
     web: "https://akintanseyi.github.io/nft/",
     p: "this is a website about nft pictures and beautiful pictures from different nft products",
-    switchSide: true,
+    switchSide: false,
   },
 
   {
@@ -101,7 +111,7 @@ const projectdata = [
     git: "https://github.com/akintanseyi/freshmenu",
     web: "https://akintanseyi.github.io/freshmenu/",
     p: "this is a new india resturant which is making waves right now, have over 20 stores nationwide and make amazing meals",
-    switchSide: false,
+    switchSide: true,
   },
   {
     id: 4,
@@ -110,7 +120,7 @@ const projectdata = [
     git: "https://github.com/akintanseyi/cream",
     web: "https://akintanseyi.github.io/cream/",
     p: "this is a website about the leading cosmetic comapny in ipaye region lagos state, sold over 100,000 product and nominated for the CSA award 2021",
-    switchSide: true,
+    switchSide: false,
   },
 ];
 
